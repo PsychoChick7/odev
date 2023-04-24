@@ -1,2 +1,2 @@
 # odev
-ehe
+patika.dev kodluyoruz ödevleri
