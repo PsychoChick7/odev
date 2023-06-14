@@ -1,1 +1,57 @@
+body{
+    background-color: bisque;
+}
 
+.Çikolatalı_Sufle{
+    color: rgb(17, 17, 17);
+}
+.bosluklar{
+    color: rgb(17, 17, 17);
+}
+.genelbilgi{
+    list-style-type: none;
+    text-align:center;    
+}
+.genelbilgi li{
+    display: inline;
+}
+
+/* h3{
+    margin-right: 300px;
+} */
+.Malzeme_Listesi_Basligi{
+    text-align: center;
+    margin-right: 19%;
+}
+/* kanser eden sorunu li etiketi işaretinin sorununu ul etiketine  list-style-position: inside; vererek çözdüm*/
+.Malzeme_Listesi{
+    list-style-type: disc;
+    list-style-position: inside;
+
+}
+.Malzeme_Listesi li{
+    text-align: left;
+    margin-left: 43%;
+}
+.yag{
+    text-align: center;
+    
+}
+
+
+.HazırlanisOl{
+    list-style-position: inside;
+}
+.HazırlanisOl li{
+    text-align: left;
+    margin-left: 43%;
+}
+/*  marklar  */
+mark{
+    background-color: rgb(184, 229, 255);
+    border-radius:  50px;
+}
+.mark2{
+    background-color:rgb(252, 255, 86)
+}
+/* ^ Marklar ^  */
